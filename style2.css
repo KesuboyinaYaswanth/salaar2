@@ -1,11 +1,11 @@
 @font-face {
     font-family: my font;
-    src: url(LEMONMILK-Bold.otf);
+    src: url('LEMONMILK-Bold.otf');
 }
 
 @font-face {
     font-family: mini font;
-    src: url(BebasNeue-Regular.otf);
+    src: url('BebasNeue-Regular.otf');
 }
 
 *{
